@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Elgentos_Christmas>
+        <Elgentos_Snow>
             <version>1.0.0</version>
-        </Elgentos_Christmas>
+        </Elgentos_Snow>
     </modules>
     <frontend>
         <layout>
             <updates>
-                <christmas>
-                    <file>christmas.xml</file>
-                </christmas>
+                <snow>
+                    <file>snow.xml</file>
+                </snow>
             </updates>
         </layout>
     </frontend>
