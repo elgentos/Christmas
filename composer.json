@@ -1,0 +1,12 @@
+{
+  "name": "elgentos/snow",
+  "description": "Adds snow to your magento shop",
+  "type": "magento-module",
+  "authors": [
+    {
+      "name": "Wouter Steenmeijer",
+      "email": "wouter@elgentos.nl"
+    }
+  ],
+  "require": {}
+}
