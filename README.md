@@ -13,3 +13,5 @@ Feel free to rewrite to css snow flakes :)
 
 Because a demo says more than 1000 words:
 http://d.pr/i/NL6u/1x6XyF4x
+
+This extension is also ready for the year 2017
